@@ -13,10 +13,18 @@ Sou um FullStack Developer 💻.
 <table>
   <tr>
     <td>
-      [![BeatrizDSampaio](https://github-readme-stats.vercel.app/api?username=BeatrizDSampaio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=BeatrizDSampaio&theme=dark"
+        alt="Github Stats"
+      />
     </td>
     <td>
-      [![BeatrizDSampaio](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizDSampaio&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizDSampaio&hide=html&layout=compact&theme=dark"
+        alt="Github Stats"
+      />
     </td>
   </tr>
 </table>
