@@ -10,5 +10,9 @@ Sou um FullStack Developer 💻.
 <br/> 💻 &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript.
 <br/> 💬  &nbsp; Sobre mim: 22 anos, casada , mãe de pet 🐾, Amo cozinhar! 👩🏻‍🍳
 
+[![iuricode](https://github-readme-stats.vercel.app/api?username=BeatrizDSampaio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizDSampaio&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/> 📧 &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-BeatrizCoutinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-dutra-sampaio/)](https://www.linkedin.com/in/beatriz-dutra-sampaio-0b987a18b/) 
 <br/>📧: dutrasampaiobeatriz@gmail.com.
