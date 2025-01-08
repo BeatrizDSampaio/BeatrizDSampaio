@@ -1,4 +1,4 @@
-<img width="250px" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/108286202?v=4">
+<img width="250px" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/108286202?s=400&u=ad306d95b1bc3afd20ae6ee1e41262597dc93abd&v=4">
 
 Beatriz Dutra Sampaio Coutinho
 Hi there 👋
